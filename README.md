@@ -5,17 +5,17 @@
 This PowerShell script is designed to run on an Edge Server with Exchange Management Shell and admin privileges. It generates reports on the top mail senders within a specified time range. The script provides a user interface to select the start and end dates and times, and options to generate a short list of top 200 senders or a full list of senders and recipients.
 
 # Prerequisites
-PowerShell 5.1 or later.
-Exchange Management Shell.
-Admin privileges on the Edge Server.
-Ensure the path D:\Script_output_senders\ exists or modify the script to use an existing path.
+- PowerShell 5.1 or later.
+- Exchange Management Shell.
+- Admin privileges on the Edge Server.
+- Ensure the path D:\Script_output_senders\ exists or modify the script to use an existing path.
 
 # Usage
-Open Exchange Management Shell as an administrator.
-Navigate to the directory containing the script.
-Run the script.
-Follow the on-screen prompts to select the desired date range and report type.
-Check the specified output directory for the generated CSV files.
+- Open Exchange Management Shell as an administrator.
+- Navigate to the directory containing the script.
+- Run the script.
+- Follow the on-screen prompts to select the desired date range and report type.
+- Check the specified output directory for the generated CSV files.
 
 ![image](https://github.com/Nivellem/GUI_Get_MessageTrackingLog/assets/84031994/910826cc-59ff-4908-b2fc-f5a35edc7e3f)
 
