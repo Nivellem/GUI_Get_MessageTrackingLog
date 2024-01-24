@@ -16,6 +16,8 @@ Navigate to the directory containing the script.
 Run the script.
 Follow the on-screen prompts to select the desired date range and report type.
 Check the specified output directory for the generated CSV files.
+![image](https://github.com/Nivellem/GUI_Get_MessageTrackingLog/assets/84031994/910826cc-59ff-4908-b2fc-f5a35edc7e3f)
+
 
 # Notes
 Ensure the output directory has appropriate write permissions.
